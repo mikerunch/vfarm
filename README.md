@@ -1,2 +1,2 @@
 # vfarm
-Vfarm is a lightweight HTML runner.
+vfarm is a simple lightweight tool to run HTML/JS/CSS apps as native executables.
